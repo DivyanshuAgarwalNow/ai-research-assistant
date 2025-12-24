@@ -1,4 +1,4 @@
-Research Assistant Backend (Spring Boot + Google Gemini)
+AI Research Assistant (Spring Boot + Google Gemini)
 
 This project is a backend service built using Spring Boot that integrates with Google Gemini via its HTTP API.
 
